@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GP.Adapters.LibreOffice/GP.Adapters.LibreOffice.csproj" />
+  <Project Path="GP.Core/GP.Core.csproj" />
+  <Project Path="GP.PresentationEngine/GP.PresentationEngine.csproj" />
+  <Project Path="GP.UI.WPF/GP.UI.WPF.csproj" />
+</Solution>
